@@ -1,4 +1,4 @@
 # leetcode
-some leet code questions that are under premium subscription but I'm too poor to pay so I write on colab or locally and push here to discuss with people.
+some leet code style questions that are that i saw online, either don't exist on leetcode or under premium so I write on colab or locally and push here.
 
 Also gonna write random notes here
